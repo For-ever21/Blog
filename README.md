@@ -8,14 +8,15 @@
 
 ## 未来需要掌握（持续打鱼晒网中...）
 
+- [ ] Typescript 知识
+- [ ] Vue3 + TSX + Vant 项目心得
+- [ ] Nuxt 使用心得
+- [ ] Node 相关知识
+- [ ] DevOps 持续CI/CD 集成
 - [ ] JavaScript 深入
 - [ ] ES6 系列深入
-- [ ] 浏览器相关知识
-- [ ] Typescript 知识
-- [ ] DevOps
 - [ ] LeetCode
-- [ ] 网络
-- [ ] vue-composition
+- [ ] 浏览器相关知识
 
 ## 开发遇到的坑(2020-11-09 之后开始记录)
 
